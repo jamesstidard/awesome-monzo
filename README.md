@@ -48,6 +48,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Monux](https://github.com/robjtede/monux) - Unofficial Monzo Client for Desktop
 - [clonzo](https://github.com/MutedJam/clonzo) - Just another Node.js-based command line client for Monzo
 - [monz](https://github.com/pawelad/monz) - Simple (and awesome) Monzo command line interface
+- [mzo](https://mzo.stidard.com) - Secure and friendly command line interface
 
 
 ##### Android
